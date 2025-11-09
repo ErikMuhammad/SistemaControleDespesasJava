@@ -34,10 +34,11 @@ b4t1_trabalho/
 **Descrição:** Estrutura de classes criada e menu principal funcional.  
 **Status:** ✅ Concluído  
 
-### 📄 Changelog da Entrega
-| Etapa | Versão | Descrição | Data |
-|--------|---------|------------|------|
-| B4T01.2 | 0.0.2 | Estrutura de classes criada (Despesa, Pagamento, TipoDespesa, Usuário) e menu funcional | *(09/11/2025)* |
+| Versão | Descrição                                         | Data       |
+| ------ | ------------------------------------------------- | ---------- |
+| 0.0.1  | Repositório criado e menu principal com `println` | 03/11/2025 |
+| 0.0.2  | Estrutura de classes criada e menu funcional      | 09/11/2025 |
+
 
 ---
 
